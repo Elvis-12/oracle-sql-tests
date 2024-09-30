@@ -19,4 +19,4 @@ This database system is designed to manage passengers, flights, tickets, and air
 
 #Screenshots:
 
-https://github.com/Elvis-12/oracle-sql-tests/blob/50f5327ffc902afdbfef067256f499a20471dc9b/conceptual%20diagram.png
+![image alt](https://github.com/Elvis-12/oracle-sql-tests/blob/50f5327ffc902afdbfef067256f499a20471dc9b/conceptual%20diagram.png)
