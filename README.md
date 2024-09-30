@@ -21,4 +21,15 @@ This database system is designed to manage passengers, flights, tickets, and air
 
 ![image alt](https://github.com/Elvis-12/oracle-sql-tests/blob/50f5327ffc902afdbfef067256f499a20471dc9b/conceptual%20diagram.png)
 ![image alt](https://github.com/Elvis-12/oracle-sql-tests/blob/501ef54010635aed93bbf3c22d40d137f301adee/PL%20Screenshots/tables%20creation.png)
-
+![image alt](https://github.com/Elvis-12/oracle-sql-tests/blob/main/PL%20Screenshots/inserting%20passengers.png)
+![image alt](https://github.com/Elvis-12/oracle-sql-tests/blob/main/PL%20Screenshots/inserting%20flights.png)
+![image alt](https://github.com/Elvis-12/oracle-sql-tests/blob/main/PL%20Screenshots/inserting%20tickets.png)
+![image alt](https://github.com/Elvis-12/oracle-sql-tests/blob/main/PL%20Screenshots/delete.png)
+![image alt](https://github.com/Elvis-12/oracle-sql-tests/blob/main/PL%20Screenshots/select%20flights%20and%20tickets.png)
+![image alt](https://github.com/Elvis-12/oracle-sql-tests/blob/main/PL%20Screenshots/select%20passengers.png)
+![image alt](https://github.com/Elvis-12/oracle-sql-tests/blob/main/PL%20Screenshots/update%20passengers.png)
+![image alt](https://github.com/Elvis-12/oracle-sql-tests/blob/main/PL%20Screenshots/TCL.png)
+![image alt](https://github.com/Elvis-12/oracle-sql-tests/blob/main/PL%20Screenshots/DCL.png)
+![image alt](https://github.com/Elvis-12/oracle-sql-tests/blob/main/PL%20Screenshots/grant.png)
+![image alt](https://github.com/Elvis-12/oracle-sql-tests/blob/main/PL%20Screenshots/joins.png)
+![image alt](https://github.com/Elvis-12/oracle-sql-tests/blob/main/PL%20Screenshots/revoke.png)
