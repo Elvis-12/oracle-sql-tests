@@ -17,3 +17,6 @@ This database system is designed to manage passengers, flights, tickets, and air
 3. Updated passenger details and deleted specific records.
 4. Executed `DDL` (create table), `DML` (insert, update, delete), `TCL` (commit), and `DCL` (grant, revoke) operations.
 
+#Screenshots:
+
+https://github.com/Elvis-12/oracle-sql-tests/blob/50f5327ffc902afdbfef067256f499a20471dc9b/conceptual%20diagram.png
