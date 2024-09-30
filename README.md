@@ -1,4 +1,4 @@
-# Flight and Passenger Management System
+s# Flight and Passenger Management System
 
 ## Problem Statement
 This database system is designed to manage passengers, flights, tickets, and airports. The system allows for the registration of passengers, the scheduling of flights, and the issuance of tickets. Each ticket is associated with a specific flight and a specific passenger.
@@ -24,16 +24,16 @@ This database system is designed to manage passengers, flights, tickets, and air
 2. This shows the creation of the tables that are available in the conceptual diagram
 ![image alt](https://github.com/Elvis-12/oracle-sql-tests/blob/501ef54010635aed93bbf3c22d40d137f301adee/PL%20Screenshots/tables%20creation.png)
 
-3. This show the insertion of data in the passengers table
+3. This shows the insertion of data in the passengers table
 ![image alt](https://github.com/Elvis-12/oracle-sql-tests/blob/main/PL%20Screenshots/inserting%20passengers.png)
 
-4. This show the insertion of data in the flights table
+4. This shows the insertion of data in the flights table
 ![image alt](https://github.com/Elvis-12/oracle-sql-tests/blob/main/PL%20Screenshots/inserting%20flights.png)
 
-5.This show the insertion of data in the tickets table
+5.This shows the insertion of data in the tickets table
 ![image alt](https://github.com/Elvis-12/oracle-sql-tests/blob/main/PL%20Screenshots/inserting%20tickets.png)
 
-6. This show the deletion of the ticket with the id 1002
+6. This shows the deletion of the ticket with the id 1002
 ![image alt](https://github.com/Elvis-12/oracle-sql-tests/blob/main/PL%20Screenshots/delete.png)
 
 7. This shows the display of data in the flights and tickets tables by selecting all data in them
@@ -42,7 +42,7 @@ This database system is designed to manage passengers, flights, tickets, and air
 8.This shows the display of data in the passengers by selecting all data in it
 ![image alt](https://github.com/Elvis-12/oracle-sql-tests/blob/main/PL%20Screenshots/select%20passengers.png)
 
-9. This show the how we updated the passenger the phone nbr of the passenger with the first id
+9. This shows  how we updated the passenger's phone nbr of the passenger with the first id
 ![image alt](https://github.com/Elvis-12/oracle-sql-tests/blob/main/PL%20Screenshots/update%20passengers.png)
 
 10. This shows the code inserts a new row into the Tickets table and commits the changes to the database.
